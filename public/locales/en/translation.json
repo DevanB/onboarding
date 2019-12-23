@@ -1,0 +1,24 @@
+{
+  "Back": "Back",
+  "inputs": {
+    "name": {
+      "label": "What is your name?"
+    },
+    "email": {
+      "label": "What is your email?",
+      "Invalid-email": "Invalid email"
+    }
+  },
+  "Next": "Next",
+  "personal-details": {
+    "heading": "Please tell us about yourself",
+    "body": "We can't wait to get to know you!"
+  },
+  "sidebar": {
+    "steps-description": "Please tell us about what you’re looking for, so that we could set you up with the best pre-vetted remote React (Native) engineers within a week.",
+    "completed-description": "Please tell us about what you’re looking for, so that we could set you up with the best pre-vetted remote React (Native) engineers within a week."
+  },
+  "Required": "Required",
+  "Sign-Up": "Sign Up",
+  "Thank-You": "Thank You"
+}

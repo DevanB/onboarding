@@ -1,0 +1,78 @@
+@import url('//hello.myfonts.net/count/3aa7f4');
+
+@font-face {
+  font-family: 'Helvetica Now';
+  font-weight: 400;
+  font-style: normal;
+  src: url('webfonts/3AA7F4_1_0.eot');
+  src: url('webfonts/3AA7F4_1_0.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/3AA7F4_1_0.woff2') format('woff2'),
+    url('webfonts/3AA7F4_1_0.woff') format('woff'),
+    url('webfonts/3AA7F4_1_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Helvetica Now';
+  font-weight: 500;
+  font-style: normal;
+  src: url('webfonts/3AA7F4_C_0.eot');
+  src: url('webfonts/3AA7F4_C_0.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/3AA7F4_C_0.woff2') format('woff2'),
+    url('webfonts/3AA7F4_C_0.woff') format('woff'),
+    url('webfonts/3AA7F4_C_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Helvetica Now';
+  font-weight: 700;
+  font-style: normal;
+  src: url('webfonts/3AA7F4_5_0.eot');
+  src: url('webfonts/3AA7F4_5_0.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/3AA7F4_5_0.woff2') format('woff2'),
+    url('webfonts/3AA7F4_5_0.woff') format('woff'),
+    url('webfonts/3AA7F4_5_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Helvetica Now';
+  font-weight: 800;
+  font-style: normal;
+  src: url('webfonts/3AA7F4_F_0.eot');
+  src: url('webfonts/3AA7F4_F_0.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/3AA7F4_F_0.woff2') format('woff2'),
+    url('webfonts/3AA7F4_F_0.woff') format('woff'),
+    url('webfonts/3AA7F4_F_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Helvetica Now';
+  font-weight: 900;
+  font-style: normal;
+  src: url('webfonts/3AA7F4_3_0.eot');
+  src: url('webfonts/3AA7F4_3_0.eot?#iefix') format('embedded-opentype'),
+    url('webfonts/3AA7F4_3_0.woff2') format('woff2'),
+    url('webfonts/3AA7F4_3_0.woff') format('woff'),
+    url('webfonts/3AA7F4_3_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Source Code Pro';
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  src: url('webfonts/SourceCodePro-Medium.ttf.woff2') format('woff2'),
+    url('webfonts/SourceCodePro-Medium.otf.woff') format('woff'),
+    url('webfonts/SourceCodePro-Medium.otf') format('opentype'),
+    url('webfonts/SourceCodePro-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Source Code Pro';
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  src: url('webfonts/SourceCodePro-Bold.ttf.woff2') format('woff2'),
+    url('webfonts/SourceCodePro-Bold.otf.woff') format('woff'),
+    url('webfonts/SourceCodePro-Bold.otf') format('opentype'),
+    url('webfonts/SourceCodePro-Bold.ttf') format('truetype');
+}

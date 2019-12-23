@@ -3,14 +3,26 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@types/jest": "24.0.19",
-    "@types/node": "12.11.1",
-    "@types/react": "16.9.9",
-    "@types/react-dom": "16.9.2",
-    "react": "^16.10.2",
-    "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0",
-    "typescript": "3.6.4"
+    "@g2i/components": "0.0.28",
+    "@types/jest": "24.0.24",
+    "@types/node": "12.12.21",
+    "@types/react": "16.9.17",
+    "@types/react-dom": "16.9.4",
+    "@xstate/react": "0.8.1",
+    "formik": "^2.0.8",
+    "formik-persist": "^1.1.0",
+    "i18next": "^19.0.2",
+    "i18next-browser-languagedetector": "^4.0.1",
+    "i18next-xhr-backend": "^3.2.2",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-i18next": "^11.2.7",
+    "react-scripts": "3.3.0",
+    "styled-components": "^4.4.1",
+    "styled-tools": "^1.7.1",
+    "typescript": "3.7.4",
+    "xstate": "4.7.3",
+    "yup": "^0.28.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -32,5 +44,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/styled-components": "^4.4.1",
+    "@types/yup": "^0.26.27"
   }
 }
